@@ -21,7 +21,7 @@ easyMigrate is small tool to convert dbf database file to MySql using python ver
 
 ## Video demo installation
 
-[![Install easyMigrate](http://img.youtube.com/vi/82tYxswCU0I/0.jpg)](http://www.youtube.com/watch?v=82tYxswCU0I "Install easyMigrate")
+[![Install easyMigrate](http://img.youtube.com/vi/J0N-_T69XRA/0.jpg)](http://www.youtube.com/watch?v=J0N-_T69XRA "Install easyMigrate")
 
 ## Copyright
 
